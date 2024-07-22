@@ -1,5 +1,7 @@
 # prsi-ts
 
+This is written as the most naive implementation of the game to serve as a reference for future implementations. Definitely not meant as being something worth bragging about :-)
+
 To install dependencies:
 
 ```bash
